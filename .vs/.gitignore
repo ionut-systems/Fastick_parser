@@ -1,0 +1,6 @@
+dist/
+build/
+.vs/
+__pycache__/
+*.pyc
+*.ipch
