@@ -1,5 +1,15 @@
 # Fastick - High-Performance Tick Parser & Analytics UI
 
+![Performance](https://img.shields.io/badge/Vitesse-Exécution_%3C_5ms-success)
+![OS](https://img.shields.io/badge/OS-Windows_10%2F11-blue)
+![Stack](https://img.shields.io/badge/Stack-C%++_%7C_Python_%7C_Tkinter-informational)
+
+> 🚀 **ACCÈS COMMERCIAL** : Accédez au code source complet, documenté et prêt à l'emploi pour vos backtests quantitatifs sur [Gumroad](https://beezeweb.gumroad.com/l/fastick-financial-data-parser?_gl=1*15416c2*_ga*MTYyNTI4ODA4My4xNzkxODk5OTYz*_ga_6LJN6D94N6*czE3OTI2NjMxMDMkbzE1JGcxJHQxNzkyNjYzMTE1JGo0OCRsMCRoMA..).
+
+---
+
+# Fastick - High-Performance Tick Parser & Analytics UI
+
 Un moteur de traitement de ticks ultra-rapide écrit en **C++**, piloté par une interface graphique moderne en **Python (Tkinter)** et couplé à un module de visualisation de données (**Pandas & Matplotlib**).
 
 ## 🚀 Architecture
