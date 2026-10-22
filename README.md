@@ -7,6 +7,8 @@
 
 ---
 
+![Interface Fastick sur un bureau Windows sombre. En haut de la fenêtre figurent le titre FASTICK - HIGH-PERFORMANCE TICK PARSER et les boutons Exécuter le Moteur C++ et Afficher le Graphique. Le journal indique Interface Tkinter prête. En attente d’action... L’interface paraît sobre et technique.](fast_parser.gif)
+
 # Fastick - High-Performance Tick Parser & Analytics UI
 
 Un moteur de traitement de ticks ultra-rapide écrit en **C++**, piloté par une interface graphique moderne en **Python (Tkinter)** et couplé à un module de visualisation de données (**Pandas & Matplotlib**).
